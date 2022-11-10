@@ -11,3 +11,5 @@ This project is a grid of vertex and triangle data that creates a 3D terrain alg
 * Toggle drawing wireframes over the terrain
 * Toggle between white polygons and colored terrain. Colored terrain is draw with 4 "levels" according to the project spec - water, grass, rock, snow
 * Switch between basic color and interpolated color. Interpolated color “lerps” between color levels, and adds a dirt/mud later between water and grass
+
+<img src='https://imgur.com/a/2VqMRFB.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
