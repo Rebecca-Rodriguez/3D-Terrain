@@ -13,3 +13,4 @@ This project is a grid of vertex and triangle data that creates a 3D terrain alg
 * Switch between basic color and interpolated color. Interpolated color “lerps” between color levels, and adds a dirt/mud later between water and grass
 
 <img src='https://imgur.com/a/2VqMRFB.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/FUYPst5.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
